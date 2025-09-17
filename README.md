@@ -1,4 +1,4 @@
-Setting Anthropic API Environment Variables
+#Setting Anthropic API Environment Variables
 
 This document explains how to use the `set-anthropic-env.sh` script to configure your environment for accessing the Anthropic API through Z.AI.
 
